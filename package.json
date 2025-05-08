@@ -26,7 +26,7 @@
     "clsx": "^2.1.1",
     "date-fns": "^4.1.0",
     "lucide-react": "^0.451.0",
-    "next": "15.0.0",
+    "next": "15.2.4",
     "node-html-parser": "^6.1.13",
     "react": "19.0.0-rc-65a56d0e-20241020",
     "react-dom": "19.0.0-rc-65a56d0e-20241020",
