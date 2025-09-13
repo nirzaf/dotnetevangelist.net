@@ -21,7 +21,7 @@
     "@types/rss": "^0.0.32",
     "@wisp-cms/client": "^0.0.22",
     "@wisp-cms/react-custom-component": "^0.0.1",
-    "axios": "^1.7.9",
+    "axios": "^1.12.0",
     "class-variance-authority": "^0.7.0",
     "clsx": "^2.1.1",
     "date-fns": "^4.1.0",
